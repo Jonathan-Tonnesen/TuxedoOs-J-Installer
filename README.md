@@ -2,4 +2,4 @@ licensed under the gpl-v2
 
 this is suposed to be a script/program that sets up local ai and webui automaically without user intervention
 
-do not report bugs as it has just started development by a young rookie who doesnt know how to code properly
+this is far from finished and i do not recomend at all you try this
