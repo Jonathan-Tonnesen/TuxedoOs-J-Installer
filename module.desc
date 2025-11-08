@@ -1,0 +1,6 @@
+---
+type: job
+name: jinstaller
+interface: python
+script: main.py
+
